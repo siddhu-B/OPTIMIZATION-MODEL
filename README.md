@@ -51,3 +51,5 @@ Units to City A: 30.0
 Units to City B: 50.0
 Units to City C: 20.0
 
+![Image](https://github.com/user-attachments/assets/8c0aa41b-5836-4516-b1e2-c54a33979b27)
+
